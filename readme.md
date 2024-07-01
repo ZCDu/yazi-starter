@@ -1,4 +1,5 @@
 # yazi食用手册
+请将本文件下载到`.config`文件夹下，并重命名为`yazi`
 yazi主要有三个配置文件
 keymap.toml 键位配置
 yazi.toml 配置各个应用默认的打开软件
@@ -9,7 +10,9 @@ theme.toml 主题配置
 
 # 推荐插件
 让l实现既能进入子目录，也能用于打开文件，[Smart enter](https://yazi-rs.github.io/docs/tips)
+
 [keyjump.yazi](https://yazi-rs.github.io/docs/resources): 类似于vim里的快速移动
+
 [Show symlink in status bar](https://yazi-rs.github.io/docs/tips): 需要先复制指定的内容到yazi/init.lua，然后重写这个方法
 
 
